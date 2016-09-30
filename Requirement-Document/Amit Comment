@@ -1,3 +1,5 @@
 User classes and characteristics section needs to be changed as it should capture the user class and theier profiles . What is expected from the user to use the system
 User interfaces must have been more explorative
 The system features must have two sections -functional req and non-func. The fucntional req. must have the use case in it. In next section of other  non-functional req should have non essential and desiarble no-functional req.
+ Update the tracibility matrix to have comprehensive view of dependencies/relations and trace information with other req. and other software elements
+ 
